@@ -1,0 +1,13 @@
+language,model,split,macro_f1
+jav,LogisticRegression,validation,0.7788
+jav,LogisticRegression,test,0.7868
+jav,LinearSVC,validation,0.7837
+jav,LinearSVC,test,0.8137
+min,LogisticRegression,validation,0.7754
+min,LogisticRegression,test,0.8097
+min,LinearSVC,validation,0.8231
+min,LinearSVC,test,0.8265
+sun,LogisticRegression,validation,0.7941
+sun,LogisticRegression,test,0.7935
+sun,LinearSVC,validation,0.8169
+sun,LinearSVC,test,0.8228
