@@ -1,0 +1,10 @@
+language,split,total_samples,negative (0),neutral (1),positive (2),avg_text_length,max_text_length
+jav,train,3400,2382,0,1018,16.73,140
+jav,validation,448,333,0,115,16.44,67
+jav,test,1200,847,0,353,16.5,131
+min,train,3400,2382,0,1018,17.09,131
+min,validation,448,333,0,115,16.74,63
+min,test,1200,847,0,353,16.82,135
+rej,train,250,179,0,71,16.76,60
+rej,validation,78,57,0,21,17.81,59
+rej,test,500,347,0,153,17.13,120
