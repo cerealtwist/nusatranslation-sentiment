@@ -1,0 +1,10 @@
+model,language,macro_f1
+IndoBERT,jav,0.7988
+IndoBERT,min,0.8096
+IndoBERT,sun,0.8067
+mBERT,jav,0.6667
+mBERT,min,0.7076
+mBERT,sun,0.6855
+XLM-R,jav,0.7568
+XLM-R,min,0.7505
+XLM-R,sun,0.7518
