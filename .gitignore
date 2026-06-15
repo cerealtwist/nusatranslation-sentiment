@@ -4,3 +4,9 @@ __pycache__/
 *.pt
 *.bin
 checkpoints/
+# Abaikan file checkpoint model AI berukuran raksasa
+results/checkpoints/**/optimizer.pt
+results/checkpoints/**/rng_state.pth
+results/checkpoints/**/scheduler.pt
+
+.venv/
